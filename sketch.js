@@ -1,3 +1,7 @@
+const Engine= Engine.world;
+const Bodies= Bodies.world;
+const World= Matter.body;
+
 var challenge1;
 var forms;
 var gameState=0;
